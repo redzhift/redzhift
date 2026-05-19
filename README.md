@@ -1,13 +1,10 @@
-mghwajin/README.md
 ## Hi ✨ I'm Jin
 
 💡 Currently learning:
  - Full stack fundamentals via ![Static Badge](https://img.shields.io/badge/The%20Odin%20Project-%23A9792B?style=flat&logo=the%20odin%20project&logoColor=white&logoSize=auto)
 
-
 🔧 Currently tinkering with:
 - Using ![Static Badge](https://img.shields.io/badge/Endeavour%20OS-%237F7FFF?style=flat&logo=endeavouros&logoColor=white&logoSize=auto)
-
 
 🧠 Currently working on:
 - Personal reference [EndeavourOS wiki](mywiki)
