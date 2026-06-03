@@ -1,30 +1,43 @@
-## Hello there ✨ I'm Jin
+## Well met! 🛰️✨ 
 
-💡 Currently learning:
- - Full stack fundamentals via ![Static Badge][top-badge]
- - ![Static Badge][js-badge]
+My name is Jin.
 
-
-🔧 Currently tinkering with:
-- ![Static Badge][endeavouros-badge]
-- ![Static Badge][confluence-badge]
-- ![Static Badge][trello-badge]
-
-🧠 Currently working on:
-- Personal reference [EndeavourOS wiki](mywiki)
-- [Sam-Il (삼일)](samil) - 3rd dan black belt pattern in ITF Taekwondo
-
-📅 Long-term goals:
-- Contribute more to open-source projects
-- Learn and use ![Static Badge][slackware-badge]
+**[My portfolio][pflink]** is available as a Confluence space while construction is underway on this site. Cheers!
 
 ---
 
-📫 Reach me at:
+### 💡 Currently learning...
+
+ - Full stack fundamentals via ![Static Badge][top-badge]
+
+ - ![Static Badge][js-badge]
+
+
+### 🔧 Currently tinkering with...
+
+- ![Static Badge][endeavouros-badge]
+
+- ![Static Badge][confluence-badge]
+
+- ![Static Badge][trello-badge]
+
+### 🧠 Currently working on...
+- This portfolio!
+
+- HTML/CSS review in ![Static Badge][top-badge]
+
+- [Sam-Il (삼일)](samil) - 3rd dan black belt pattern in ITF Taekwondo
+
+---
+
+### 📫 Reach me at...
+
 - ![Static Badge][tuta]
+
 - ![Static Badge][proton]
 
 <!-- urls-->
+[pflink]: https://redzhift.atlassian.net/wiki/spaces/PF/overview
 [top]: https://www.theodinproject.com/
 [samil]: https://dotaekwondo.net/itf/patterns/18/sam-il.html
 [mywiki]: https://github.com/mghwajin/mywiki
@@ -40,10 +53,6 @@
 
 [endeavouros-badge]: https://img.shields.io/badge/EndeavourOS-%237F7FFF?style=flat&logo=endeavouros&logoColor=white&logoSize=auto&link=https%3A%2F%2Fendeavouros.com%2F
 
-[slackware-badge]: https://img.shields.io/badge/Slackware-%23000000?style=flat&logo=slackware&logoColor=white&logoSize=auto&link=http%3A%2F%2Fwww.slackware.com%2F
-
 [confluence-badge]: https://img.shields.io/badge/Confluence-%23172B4D?style=flat&logo=Confluence&logoColor=white&logoSize=auto
 
 [trello-badge]: https://img.shields.io/badge/Trello-%230052CC?style=flat&logo=trello&logoColor=white&logoSize=auto
-
-
