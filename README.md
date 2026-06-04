@@ -2,29 +2,28 @@
 
 My name is Jin.
 
-**[My portfolio][pflink]** is available as a Confluence space while construction is underway on this site. Cheers!
+**[My portfolio][pflink]** is available in Confluence while construction here is underway. Cheers!
 
 ---
 
-### 💡 Currently learning...
+### 🧠 Currently learning...
 
  - Full stack fundamentals via ![Static Badge][top-badge]
 
- - ![Static Badge][js-badge]
+ - JavaScript
 
 
 ### 🔧 Currently tinkering with...
 
-- ![Static Badge][endeavouros-badge]
+- ![Static Badge][eos-arch]
 
-- ![Static Badge][confluence-badge]
+- Confluence & Trello
 
-- ![Static Badge][trello-badge]
+### 💡 Currently working on...
 
-### 🧠 Currently working on...
-- This portfolio!
+- Static site portfolio
 
-- HTML/CSS review in ![Static Badge][top-badge]
+- HTML/CSS review
 
 - [Sam-Il (삼일)](samil) - 3rd dan black belt pattern in ITF Taekwondo
 
@@ -32,9 +31,10 @@ My name is Jin.
 
 ### 📫 Reach me at...
 
-- ![Static Badge][tuta]
+`redzhift@tuta.io`  
+or  
+`mghwajin@protonmail.com`
 
-- ![Static Badge][proton]
 
 <!-- urls-->
 [pflink]: https://redzhift.atlassian.net/wiki/spaces/PF/overview
@@ -51,8 +51,7 @@ My name is Jin.
 
 [js-badge]:https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=grey&logoSize=auto
 
-[endeavouros-badge]: https://img.shields.io/badge/EndeavourOS-%237F7FFF?style=flat&logo=endeavouros&logoColor=white&logoSize=auto&link=https%3A%2F%2Fendeavouros.com%2F
+[eos-arch]: https://img.shields.io/badge/EndeavourOS-Arch%20Linux-%237F7FFF?style=flat&logo=endeavouros&logoColor=white&logoSize=auto&labelColor=%237F7FFF&color=%231793D1
 
-[confluence-badge]: https://img.shields.io/badge/Confluence-%23172B4D?style=flat&logo=Confluence&logoColor=white&logoSize=auto
+[atlassian-badge]: https://img.shields.io/badge/Atlassian-%230052CC?style=flat&logo=atlassian&logoColor=white&logoSize=auto
 
-[trello-badge]: https://img.shields.io/badge/Trello-%230052CC?style=flat&logo=trello&logoColor=white&logoSize=auto
