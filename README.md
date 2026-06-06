@@ -1,3 +1,9 @@
++++
+date = '2026-06-06T16:11:22-07:00'
+draft = true
+title = 'Readme'
++++
+
 ## Well met! 🛰️✨ 
 
 My name is Jin.
@@ -12,16 +18,17 @@ My name is Jin.
 
  - JavaScript
 
+ - [Hugo][hugo]
 
 ### 🔧 Currently tinkering with...
 
 - ![Static Badge][eos-arch]
 
-- Confluence & Trello
+- Atlassian tools - Confluence, Jira, Trello
 
 ### 💡 Currently working on...
 
-- Static site portfolio
+- Static site portfolio via Hugo (here!)
 
 - HTML/CSS review
 
@@ -33,18 +40,17 @@ My name is Jin.
 
 `redzhift@tuta.io`  
 or  
-`mghwajin@protonmail.com`
+`linkedin.com/in/redzhift`
 
 <!-- urls-->
-[pflink]: https://redzhift.atlassian.net/wiki/spaces/PF/overview
+[pflink]: https://redzhift.atlassian.net/wiki/spaces/~jcho/
 [top]: https://www.theodinproject.com/
 [samil]: https://dotaekwondo.net/itf/patterns/18/sam-il.html
-[mywiki]: https://github.com/mghwajin/mywiki
+[mywiki]: https://github.com/redzhift/mywiki
+[hugo]: https://gohugo.io/
 
 <!-- badge links -->
 [tuta]: https://img.shields.io/badge/redzhift%40tuta.io-%23850122?style=flat&logo=tuta&logoColor=white&logoSize=auto
-
-[proton]: https://img.shields.io/badge/mghwajin%40protonmail.com-%236D4AFF?style=flat&logo=protonmail&logoColor=white&logoSize=auto
 
 [top-badge]: https://img.shields.io/badge/The%20Odin%20Project-%23A9792B?style=flat&logo=the%20odin%20project&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.theodinproject.com%2F
 
