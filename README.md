@@ -22,7 +22,7 @@ My name is Jin.
 
 ### 💡 Currently working on...
 
-- Static site portfolio via Hugo (here!)
+- Static site portfolio
 
 - HTML/CSS review
 
