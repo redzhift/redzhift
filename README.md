@@ -1,9 +1,3 @@
-+++
-date = '2026-06-06T16:11:22-07:00'
-draft = true
-title = 'Readme'
-+++
-
 ## Well met! 🛰️✨ 
 
 My name is Jin.
